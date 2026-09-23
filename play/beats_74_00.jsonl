@@ -294,3 +294,6 @@
 {"n":294,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at High line. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":295,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north curb. Bess keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
 {"n":296,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north curb. arc left open. 8 steps. The barrel stays for the wipe."}
+{"n":297,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Ward gate. Nobody past the north curb. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":298,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north curb. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":299,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north curb. arc left open. 4 steps. The crate stays for the wipe."}
