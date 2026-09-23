@@ -479,3 +479,6 @@
 {"n":479,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south curb. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south curb. arc left open. 8 steps. The crate stays for the wipe."}
 {"n":481,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Ward gate. Nobody past the south curb. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":482,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south curb. Matt keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
+{"n":483,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south curb. arc left open. 4 steps. The lamp stays for the wipe."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Ward gate. Nobody past the south curb. We wipe in 5 steps. Arc on the left lane, open."}
