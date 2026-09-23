@@ -260,3 +260,6 @@
 {"n":260,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south curb. arc left open. 4 steps. The awning stays for the wipe."}
 {"n":261,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the pier. Nobody past the south curb. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":262,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier south curb. Matt keeps the awning for the wipe. 6 steps, arc on the left lane, open."}
+{"n":263,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south curb. arc left open. 7 steps. The awning stays for the wipe."}
+{"n":264,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at the pier. Nobody past the south curb. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":265,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier south curb. Nia keeps the awning for the wipe. 2 steps, arc on the left lane, open."}
