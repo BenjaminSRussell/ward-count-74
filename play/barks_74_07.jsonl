@@ -525,3 +525,6 @@
 {"n":525,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east mouth. Nia keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":526,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east mouth. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":527,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Ward gate. Nobody past the east mouth. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":528,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate east mouth. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":529,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east mouth. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":530,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the east mouth. We wipe in 4 steps. Arc on the left lane, open."}
