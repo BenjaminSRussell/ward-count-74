@@ -288,3 +288,6 @@
 {"n":288,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west mouth. Ivo keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
 {"n":289,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west mouth. arc left open. 4 steps. The barrel stays for the wipe."}
 {"n":290,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Clinic roof. Nobody past the west mouth. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":291,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof west mouth. Bess keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west mouth. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":293,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Switchyard. Nobody past the west mouth. We wipe in 8 steps. Arc on the left lane, open."}
