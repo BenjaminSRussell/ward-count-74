@@ -340,3 +340,6 @@
 {"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. arc left open. 2 steps. The drum stays for the wipe."}
 {"n":341,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Stockyard fence. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":342,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
+{"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north curb. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":344,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Stockyard fence. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":345,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north curb. Nia keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
