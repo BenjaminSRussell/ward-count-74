@@ -659,3 +659,6 @@
 {"n":659,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north curb. arc left open. 7 steps. The rebar stays for the wipe."}
 {"n":660,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at the Lot. Nobody past the north curb. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":661,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot north curb. Nia keeps the rebar for the wipe. 2 steps, arc on the left lane, open."}
+{"n":662,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. arc left open. 3 steps. The rebar stays for the wipe."}
+{"n":663,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at the Lot. Nobody past the north curb. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":664,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the rebar for the wipe. 5 steps, arc on the left lane, open."}
