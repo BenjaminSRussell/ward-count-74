@@ -491,3 +491,6 @@
 {"n":491,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west mouth. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
 {"n":492,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west mouth. arc left open. 3 steps. The drum stays for the wipe."}
 {"n":493,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the west mouth. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":494,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west mouth. Matt keeps the drum for the wipe. 5 steps, arc on the left lane, open."}
+{"n":495,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west mouth. arc left open. 6 steps. The drum stays for the wipe."}
+{"n":496,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at High line. Nobody past the west mouth. We wipe in 7 steps. Arc on the left lane, open."}
