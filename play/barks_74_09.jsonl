@@ -211,3 +211,6 @@
 {"n":211,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north mouth. Bess keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
 {"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north mouth. arc left open. 6 steps. The awning stays for the wipe."}
 {"n":213,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Kessler alley. Nobody past the north mouth. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":214,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north mouth. Matt keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
+{"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north mouth. arc left open. 2 steps. The awning stays for the wipe."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Kessler alley. Nobody past the north mouth. We wipe in 3 steps. Arc on the left lane, open."}
