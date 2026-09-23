@@ -417,3 +417,6 @@
 {"n":417,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mast yard. Nobody past the east mouth. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":418,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard east mouth. Matt keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
 {"n":419,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east mouth. arc left open. 6 steps. The crate stays for the wipe."}
+{"n":420,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Mast yard. Nobody past the east mouth. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":421,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard east mouth. Nia keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
+{"n":422,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east mouth. arc left open. 2 steps. The crate stays for the wipe."}
