@@ -666,3 +666,6 @@
 {"n":666,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west mouth. Matt keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
 {"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west mouth. arc left open. 4 steps. The rebar stays for the wipe."}
 {"n":668,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Ward gate. Nobody past the west mouth. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":669,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate west mouth. Nia keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
+{"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west mouth. arc left open. 7 steps. The rebar stays for the wipe."}
+{"n":671,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Ward gate. Nobody past the west mouth. We wipe in 8 steps. Arc on the left lane, open."}
