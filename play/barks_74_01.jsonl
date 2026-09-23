@@ -231,3 +231,6 @@
 {"n":231,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north curb. Bess keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
 {"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north curb. arc left open. 6 steps. The awning stays for the wipe."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at South stair. Nobody past the north curb. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":234,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair north curb. Matt keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
+{"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north curb. arc left open. 2 steps. The awning stays for the wipe."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at South stair. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
