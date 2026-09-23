@@ -629,3 +629,6 @@
 {"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south curb. arc left open. 2 steps. The badge door stays for the wipe."}
 {"n":630,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Switchyard. Nobody past the south curb. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":631,"kind":"place","name":"Switchyard south curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south curb. Bess keeps the badge door for the wipe. 4 steps, arc on the left lane, open."}
+{"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south curb. arc left open. 5 steps. The badge door stays for the wipe."}
+{"n":633,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Drydock. Nobody past the south curb. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":634,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south curb. Matt keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
