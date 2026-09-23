@@ -129,3 +129,6 @@
 {"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north mouth. arc left open. 8 steps. The hydrant stays for the wipe."}
 {"n":130,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at South stair. Nobody past the north mouth. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":131,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north mouth. Bess keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
+{"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north mouth. arc left open. 4 steps. The hydrant stays for the wipe."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the pier. Nobody past the north mouth. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier north mouth. Matt keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
