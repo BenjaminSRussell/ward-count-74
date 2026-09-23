@@ -483,3 +483,6 @@
 {"n":483,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof east mouth. Bess keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
 {"n":484,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east mouth. arc left open. 7 steps. The drum stays for the wipe."}
 {"n":485,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Switchyard. Nobody past the east mouth. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":486,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard east mouth. Matt keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
+{"n":487,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east mouth. arc left open. 3 steps. The drum stays for the wipe."}
+{"n":488,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Switchyard. Nobody past the east mouth. We wipe in 4 steps. Arc on the left lane, open."}
