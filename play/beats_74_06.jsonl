@@ -393,3 +393,6 @@
 {"n":393,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mall court. Nobody past the east mouth. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":394,"kind":"place","name":"Mall court east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court east mouth. Matt keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
 {"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east mouth. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Mall court. Nobody past the east mouth. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":397,"kind":"place","name":"Mall court east mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court east mouth. Nia keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
+{"n":398,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east mouth. arc left open. 6 steps. The crate stays for the wipe."}
