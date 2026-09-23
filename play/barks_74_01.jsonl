@@ -171,3 +171,6 @@
 {"n":171,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north curb. Bess keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
 {"n":172,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. arc left open. 2 steps. The awning stays for the wipe."}
 {"n":173,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Stockyard fence. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":174,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
+{"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north curb. arc left open. 5 steps. The awning stays for the wipe."}
+{"n":176,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Stockyard fence. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
