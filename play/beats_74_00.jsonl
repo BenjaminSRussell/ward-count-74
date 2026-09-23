@@ -438,3 +438,6 @@
 {"n":438,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Switchyard. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":439,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north curb. Bess keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
 {"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north curb. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Drydock. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":442,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north curb. Matt keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
+{"n":443,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north curb. arc left open. 8 steps. The crate stays for the wipe."}
