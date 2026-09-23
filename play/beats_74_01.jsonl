@@ -500,3 +500,6 @@
 {"n":500,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at the Lot. Nobody past the north curb. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":501,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot north curb. Nia keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
 {"n":502,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":503,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at the Lot. Nobody past the north curb. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":504,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. arc left open. 6 steps. The badge door stays for the wipe."}
