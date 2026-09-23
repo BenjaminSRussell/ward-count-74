@@ -559,3 +559,6 @@
 {"n":559,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north curb. Bess keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
 {"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north curb. arc left open. 6 steps. The lamp stays for the wipe."}
 {"n":561,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at South stair. Nobody past the north curb. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":562,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north curb. Matt keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
+{"n":563,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north curb. arc left open. 2 steps. The lamp stays for the wipe."}
+{"n":564,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at South stair. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
