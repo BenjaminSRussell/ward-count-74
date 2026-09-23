@@ -210,3 +210,6 @@
 {"n":210,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north curb. Matt keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
 {"n":211,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north curb. arc left open. 6 steps. The awning stays for the wipe."}
 {"n":212,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Mast yard. Nobody past the north curb. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":213,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard north curb. Nia keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
+{"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north curb. arc left open. 2 steps. The awning stays for the wipe."}
+{"n":215,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Mast yard. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
