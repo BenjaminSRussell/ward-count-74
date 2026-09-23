@@ -65,3 +65,6 @@
 {"n":65,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at South stair. Nobody past the north curb. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":66,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair north curb. Matt keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
 {"n":67,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north curb. arc left open. 2 steps. The shutter stays for the wipe."}
+{"n":68,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at South stair. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":69,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north curb. Nia keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
+{"n":70,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north curb. arc left open. 5 steps. The shutter stays for the wipe."}
