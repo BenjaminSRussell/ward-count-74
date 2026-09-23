@@ -697,3 +697,6 @@
 {"n":697,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north curb. arc left open. 2 steps. The radio coil stays for the wipe."}
 {"n":698,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Mall court. Nobody past the north curb. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":699,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north curb. Bess keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. arc left open. 5 steps. The radio coil stays for the wipe."}
+{"n":701,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":702,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass north curb. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
