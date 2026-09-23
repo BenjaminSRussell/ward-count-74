@@ -5,3 +5,6 @@
 {"n":5,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. arc left open. 5 steps. The plywood stays for the wipe."}
 {"n":6,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at High line. Nobody past the east mouth. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":7,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east mouth. Bess keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
+{"n":8,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. arc left open. 8 steps. The plywood stays for the wipe."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Ward gate. Nobody past the east mouth. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":10,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
