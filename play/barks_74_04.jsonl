@@ -903,3 +903,6 @@
 {"n":903,"kind":"place","name":"the Underpass west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west mouth. Bess keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west mouth. arc left open. 3 steps. The rope stays for the wipe."}
 {"n":905,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mast yard. Nobody past the west mouth. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard west mouth. Matt keeps the rope for the wipe. 5 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west mouth. arc left open. 6 steps. The rope stays for the wipe."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Mast yard. Nobody past the west mouth. We wipe in 7 steps. Arc on the left lane, open."}
