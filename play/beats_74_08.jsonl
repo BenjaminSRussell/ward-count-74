@@ -118,3 +118,6 @@
 {"n":118,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Last Light. Nobody past the north mouth. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":119,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north mouth. Bess keeps the hydrant for the wipe. 5 steps, arc on the left lane, open."}
 {"n":120,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The hydrant stays for the wipe."}
+{"n":121,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at South stair. Nobody past the north mouth. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":122,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north mouth. Matt keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
+{"n":123,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. arc left open. 2 steps. The hydrant stays for the wipe."}
