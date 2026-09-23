@@ -19,3 +19,6 @@
 {"n":19,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. arc left open. 4 steps. The shutter stays for the wipe."}
 {"n":20,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Ward gate. Nobody past the east mouth. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":21,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate east mouth. Nia keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
+{"n":22,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east mouth. arc left open. 7 steps. The shutter stays for the wipe."}
+{"n":23,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Ward gate. Nobody past the east mouth. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":24,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate east mouth. Ivo keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
