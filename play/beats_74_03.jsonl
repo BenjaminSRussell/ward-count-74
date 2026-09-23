@@ -693,3 +693,6 @@
 {"n":693,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the south curb. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":694,"kind":"place","name":"Stockyard fence south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south curb. Matt keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
 {"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south curb. arc left open. 5 steps. The radio coil stays for the wipe."}
+{"n":696,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the south curb. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":697,"kind":"place","name":"Stockyard fence south curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south curb. Nia keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
+{"n":698,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south curb. arc left open. 8 steps. The radio coil stays for the wipe."}
