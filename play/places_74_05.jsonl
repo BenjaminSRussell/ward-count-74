@@ -684,3 +684,6 @@
 {"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. arc left open. 6 steps. The radio coil stays for the wipe."}
 {"n":685,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the west mouth. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":686,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
+{"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":688,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the west mouth. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":689,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley west mouth. Nia keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
