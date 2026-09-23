@@ -672,3 +672,6 @@
 {"n":672,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west mouth. arc left open. 8 steps. The badge door stays for the wipe."}
 {"n":673,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Ward gate. Nobody past the west mouth. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":674,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west mouth. Matt keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":675,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west mouth. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":676,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Ward gate. Nobody past the west mouth. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":677,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate west mouth. Nia keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
