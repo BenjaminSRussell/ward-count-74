@@ -378,3 +378,6 @@
 {"n":378,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Mast yard. Nobody past the north curb. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":379,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north curb. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":380,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Last Light. Nobody past the north curb. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":382,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north curb. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":383,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. arc left open. 4 steps. The crate stays for the wipe."}
