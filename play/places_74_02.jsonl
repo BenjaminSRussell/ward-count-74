@@ -345,3 +345,6 @@
 {"n":345,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south curb. arc left open. 6 steps. The crate stays for the wipe."}
 {"n":346,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the Lot. Nobody past the south curb. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":347,"kind":"place","name":"the Lot south curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south curb. Bess keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
+{"n":348,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south curb. arc left open. 2 steps. The crate stays for the wipe."}
+{"n":349,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Stockyard fence. Nobody past the south curb. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":350,"kind":"place","name":"Stockyard fence south curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south curb. Matt keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
