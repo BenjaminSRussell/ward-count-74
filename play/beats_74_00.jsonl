@@ -969,3 +969,6 @@
 {"n":969,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Ward gate. Nobody past the north curb. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":970,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north curb. Matt keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
 {"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north curb. arc left open. 4 steps. The shutter stays for the wipe."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Ward gate. Nobody past the north curb. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":973,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north curb. Nia keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
+{"n":974,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north curb. arc left open. 7 steps. The shutter stays for the wipe."}
